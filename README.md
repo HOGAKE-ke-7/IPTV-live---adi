@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/HOGAKE-ke-7/IPTV-live---adi/gitPertama/youtube
 ### Run the tool on your local machine
 ``` bash
 git clone https://github.com/HOGAKE-ke-7/IPTV-live---adi.git
-cd YouTube_to_m3u
+cd IPTV-live---adi
 chmod +x autorun.sh
 ./autorun.sh
 ```
