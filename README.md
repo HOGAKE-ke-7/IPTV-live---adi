@@ -1,7 +1,7 @@
 
 <h1 align="center"> YouTube_to_m3u </h1>
 
-[![M3U generator for YouTube](https://github.com/naveenland4/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/naveenland4/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/HOGAKE-ke-7/IPTV-live---adi/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/HOGAKE-ke-7/IPTV-live---adi/actions/workflows/m3u_Generator.yml)
 
 ``` bash
 
@@ -18,11 +18,12 @@ Updated m3u links of YouTube live channels, **auto-updated every 2 hours**.
 
 
 ### Usage
-Paste this URL: 'https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u' to any player which supports M3U playlists
+Paste this URL: '
+https://raw.githubusercontent.com/HOGAKE-ke-7/IPTV-live---adi/gitPertama/youtube.m3u' to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
-git clone https://github.com/naveenland4/YouTube_to_m3u.git
+git clone https://github.com/HOGAKE-ke-7/IPTV-live---adi.git
 cd YouTube_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
