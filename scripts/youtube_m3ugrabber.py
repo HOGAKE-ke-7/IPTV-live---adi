@@ -2,22 +2,21 @@
 
 banner = r'''
 ###########################################################################
-#      ____ 	____    _____                                             #
-#     |  _ \   |       |  _   \                                           #
-#     | |_) |  |____   | |_|  |                                           #
-#     |  __/        |  |  _   /                                           #
-#     |_|       ____|  |_| |__\                                           #
+#      ____ 	   ______     _____                                             #
+#     /   \     |      \    |   |                                           #
+#    / |_) \    |  |_)  |   |   |                                           #
+#   /       \   |       |   |   |                                           #
+#  /         \  |______/    |___|                                           #
 #                                                                         #
-#                                  >> https://github.com/naveenland4      #
+#                                  >> https://github.com/HOGAKE-ke-7      #
 ###########################################################################
 
 
 
-#EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", Playlist is for Free
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+#EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Pwuqij2lDrpgyFWvvAhxyiYEj5u9XFRutQf-3fw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Playlist is for Free
+https://raw.githubusercontent.com/HOGAKE-ke-7/IPTV-live---adi/gitPertama/assets/info.m3u8
 
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/C8DXbt1.png" tvg-id="", BFM Grand Lille (720p)
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+
 '''
 
 import requests
