@@ -1,5 +1,5 @@
 
-<h1 align="center"> YouTube_to_m3u </h1>
+<h1 align="center"> IPTV </h1>
 
 [![M3U generator for YouTube](https://github.com/HOGAKE-ke-7/IPTV-live---adi/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/HOGAKE-ke-7/IPTV-live---adi/actions/workflows/m3u_Generator.yml)
 
