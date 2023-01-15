@@ -5,7 +5,7 @@
 
 ``` bash
 
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u
+https://raw.githubusercontent.com/HOGAKE-ke-7/IPTV-live---adi/gitPertama/youtube.m3u
 ```
 
 Works best with : [Perfect Player IPTV](http://niklabs.com/) ,
