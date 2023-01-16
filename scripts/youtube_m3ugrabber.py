@@ -14,7 +14,7 @@ banner = r'''
 
 
 #EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Pwuqij2lDrpgyFWvvAhxyiYEj5u9XFRutQf-3fw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Playlist is for Free
-http://206.189.150.129:8088/hls/ANaimaMain.m3u8
+http://serveredangdut.com/ANaimaMain.m3u8
 
 
 '''
