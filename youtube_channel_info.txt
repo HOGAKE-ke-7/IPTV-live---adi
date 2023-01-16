@@ -2,6 +2,6 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Babybus Indonesia | Indonesia | https://yt3.ggpht.com/ytc/AMLnZu-Pwuqij2lDrpgyFWvvAhxyiYEj5u9XFRutQf-3fw=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=GTk16BAO5e0
+Babybus LIVE | Raffasya TV | https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV |
+https://www.youtube.com/live/GTk16BAO5e0?feature=share
 
