@@ -14,7 +14,7 @@ banner = r'''
 
 
 #EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Pwuqij2lDrpgyFWvvAhxyiYEj5u9XFRutQf-3fw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Playlist is for Free
-https://raw.githubusercontent.com/HOGAKE-ke-7/IPTV-live---adi/gitPertama/assets/info.m3u8
+http://206.189.150.129:8088/hls/ANaimaMain.m3u8
 
 
 '''
@@ -28,18 +28,18 @@ if 'win' in sys.platform:
     windows = True
 
 def grab(url):
-    response = s.get(url, timeout=15).text
+    response = s.get(url, timeout=55).text
     if '.m3u8' not in response:
         response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8')
+                print('halo')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8')
+                print('halo')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -72,4 +72,4 @@ with open('../youtube_channel_info.txt') as f:
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
-    os.system('rm watch*')
+
